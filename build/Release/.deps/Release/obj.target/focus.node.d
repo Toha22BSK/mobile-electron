@@ -1,0 +1,1 @@
+cmd_Release/obj.target/focus.node := g++ -o Release/obj.target/focus.node -shared -pthread -rdynamic -m64  -Wl,-soname=focus.node -Wl,--start-group Release/obj.target/focus/source/bindings.o Release/obj.target/focus/source/focus_noop.o -Wl,--end-group 
