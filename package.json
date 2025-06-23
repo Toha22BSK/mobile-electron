@@ -1,6 +1,6 @@
 {
   "name": "electron-window-focus",
-  "version": "70.0.40",
+  "version": "71.0.40",
   "description": "Активирует окно и возвращает фокус приложению",
   "main": "index.js",
   "types": "index.d.ts",
